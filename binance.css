@@ -1,0 +1,44 @@
+
+header{
+    display: flex;
+    background-color: rgb(20, 20, 20);
+    color: rgb(243, 166, 23);
+  } 
+
+  .home{
+    display: flex;
+    margin-left: 80%; 
+  }
+
+  main{
+      background-color: rgb(43, 42, 42);
+      color: rgb(243, 166, 23);
+      display: flex;
+      flex-direction: column;
+      text-align:center;
+      justify-content: space-evenly;
+  }
+
+  .tendance{
+      padding-top: 2%;
+      margin-left:25%;
+  }
+
+  .btn {
+    width: 10%;
+    height: auto;
+    background-color: #FCD535;
+    color: #FFFFFF;
+    text-align: center;
+    }
+
+    footer{
+        display: flex;
+        background-color: rgb(20, 20, 20);
+        justify-content: space-evenly;
+    }
+
+    .description{
+        font-size: medium;
+        font-family: 'Courier New', Courier, monospace;
+    }

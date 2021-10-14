@@ -1,0 +1,30 @@
+main{
+    display: flex;
+    background-color:yellow;
+    align-items: center;
+    font-style: oblique;
+}
+
+.telecharger{
+    display: flex;
+    flex-direction: column; 
+    align-items: center ;
+}
+
+.teleimg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+}
+
+.home{
+    display: flex;
+    margin-left: 90%; 
+  }
+
+
+header{
+    display: flex;
+  } 

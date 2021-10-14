@@ -1,0 +1,51 @@
+.entete{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row; 
+    border-radius: 5px 10px 0 5px;
+}
+
+.time{
+    display: flex;
+    align-items: center;
+    margin-left: 40%;
+}
+
+.batterie{  
+    display: flex;
+    flex-direction: row;  
+    align-items: center; 
+    margin-left: 40%; 
+    font-size: larger;   
+}
+
+.bas{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 5px 10px 0 5px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(43, 41, 41) ; 
+}
+
+.reseau{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.appligne{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+}
+
+.apphaut{
+    padding-bottom: 9%;
+}
+ 
